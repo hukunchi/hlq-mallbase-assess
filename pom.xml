@@ -48,24 +48,7 @@
 				<groupId>commons-pool</groupId>
 				<artifactId>commons-pool</artifactId>
 				<version>1.5.4</version>
-			</dependency>
-			<dependency>
-				<groupId>com.touna</groupId>
-				<artifactId>redis-common</artifactId>
-				<version>1.0.0</version>
-				<exclusions>
-					<exclusion>
-						<groupId>org.springframework</groupId>
-						<artifactId>*</artifactId>
-					</exclusion>
-					<exclusion>
-						<groupId>javax.servlet</groupId>
-						<artifactId>servlet-api</artifactId>
-					</exclusion>
-				</exclusions>
-			</dependency>
-
-		
+			</dependency>		
 
 			<dependency>
 				<groupId>com.github.sgroschupf</groupId>
