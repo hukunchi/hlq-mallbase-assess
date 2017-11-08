@@ -32,12 +32,6 @@
 		<!-- 接入层发布模块 -->
 		<dependencies>
 
-			<!-- 接入层订单模块 -->
-			 <dependency>
-				<groupId>com.touna.loan.car</groupId>
-				<artifactId>order-access</artifactId>
-				<version>0.0.1-SNAPSHOT</version>
-			</dependency>
 			<dependency>
 				<groupId>redis.clients</groupId>
 				<artifactId>jedis</artifactId>
@@ -115,7 +109,7 @@
 			</dependency>
 			<!-- swagger 依赖包引入 -->
 			
-			<!-- 订单模块依赖引入 -->
+			<!-- mallbase服务依赖引入 -->
 			<dependency>
 				<groupId>com.hlq</groupId>
 				<artifactId>mallbase-management.facade</artifactId>
