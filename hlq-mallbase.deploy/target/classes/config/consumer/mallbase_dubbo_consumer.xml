@@ -10,6 +10,6 @@
     <!-- zookeeper服务注册中心 -->
     <dubbo:registry id="hlq-mallbase-consumer"  address="${dubbo.hlq.mallbasemanagement.registry.address}" check="false" />
     
-    <dubbo:reference id="demoFacade" interface="com.hlq.mallbase.management.facade.intf.DemoFacade" registry="hlq-mallbase-consumer" version="${dubbo.hlq.mallbasemanagement.version}"/>
+    <dubbo:reference id="userInfoFacade" interface="com.hlq.mallbase.management.facade.intf.UserInfoFacade" registry="hlq-mallbase-consumer" version="${dubbo.hlq.mallbasemanagement.version}"/>
     
 </beans>

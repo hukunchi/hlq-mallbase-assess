@@ -1,9 +1,8 @@
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\common\ResponseCode.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\common\BizException.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\controller\GunsErrorView.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\common\HttpResponse.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\config\ConfigLoader.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\web\WebMvcAdapter.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\Bootstrap.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\web\GlobalExceptionFilter.java
-D:\workspace\hlq-mallbase\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\controller\GlobalController.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\config\ConfigLoader.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\Bootstrap.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\common\ResponseCode.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\web\GlobalExceptionFilter.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\common\HttpResponse.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\controller\GunsErrorView.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\controller\GlobalController.java
+D:\studySpace\mallbase-web\hlq-mallbase-assess\hlq-mallbase.deploy\src\main\java\com\hlq\mallbase\deploy\common\BizException.java
